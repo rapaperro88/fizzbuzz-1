@@ -1,3 +1,4 @@
+print("konnichiwa Sekai !")
 for x in xrange(1, 200):
  
     fizz = not x % 3
